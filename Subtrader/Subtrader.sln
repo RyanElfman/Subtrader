@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subtrader", "Subtrader\Subtrader.csproj", "{EB080B85-F837-4293-8402-36924714E116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subtrader.UTest", "Subtrader.UTest\Subtrader.UTest.csproj", "{11EC09F5-BAFA-4DBF-A9D4-F789022A73FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB080B85-F837-4293-8402-36924714E116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB080B85-F837-4293-8402-36924714E116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB080B85-F837-4293-8402-36924714E116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB080B85-F837-4293-8402-36924714E116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11EC09F5-BAFA-4DBF-A9D4-F789022A73FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11EC09F5-BAFA-4DBF-A9D4-F789022A73FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11EC09F5-BAFA-4DBF-A9D4-F789022A73FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11EC09F5-BAFA-4DBF-A9D4-F789022A73FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD14FF22-65FA-443B-8541-60041B9E6BBF}
+	EndGlobalSection
+EndGlobal
